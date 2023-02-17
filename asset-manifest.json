@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetching-movies/static/css/main.c5e21df4.css",
+    "main.js": "/fetching-movies/static/js/main.47c2eb64.js",
+    "index.html": "/fetching-movies/index.html",
+    "main.c5e21df4.css.map": "/fetching-movies/static/css/main.c5e21df4.css.map",
+    "main.47c2eb64.js.map": "/fetching-movies/static/js/main.47c2eb64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e21df4.css",
+    "static/js/main.47c2eb64.js"
+  ]
+}
